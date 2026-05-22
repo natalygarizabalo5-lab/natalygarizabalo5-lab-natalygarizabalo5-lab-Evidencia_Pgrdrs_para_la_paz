@@ -1,0 +1,10 @@
+pregunta: ¿que hace esta ruta?
+
+respuesta:
+recibe un mensaje y responde confirmando que lo recibió junto con el mismo contenido.
+
+pregunta: para que podria servir en una aplicación comunitaria
+
+respuesta:
+podría servir como un punto de entrada para que los 
+miembros envíen información relevante a la comunidad.

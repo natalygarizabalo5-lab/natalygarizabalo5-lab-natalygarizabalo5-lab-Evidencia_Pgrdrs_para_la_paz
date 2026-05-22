@@ -1,0 +1,20 @@
+Nombre del estudiante: Natali villalba Garizabalo
+fecha: 21 de mayo del 2026
+
+pregunta: 
+¿Cómo podrían las APIs ayudar a que las comunidades compartan
+información,reportes o alertas de manera organizada?
+
+respuesta: 
+
+Las APIs permiten integrar diferentes plataformas en un solo sistema comunitario.  
+Gracias a ellas, los reportes enviados desde aplicaciones móviles o 
+formularios web llegan en un formato uniforme.  
+Esto evita duplicaciones y asegura que la información sea clara y verificable.  
+Además, las APIs pueden automatizar la clasificación de alertas según categorías como seguridad, salud o infraestructura.  
+De esta manera, cada reporte se dirige al área responsable sin pérdida de tiempo.  
+También facilitan la difusión inmediata de alertas a través de correo, SMS o mensajería.  
+Los filtros permiten que cada ciudadano reciba solo la información relevante para su zona.  
+Al abrir los datos mediante APIs públicas, se fomenta la transparencia y la participación ciudadana.  
+Las comunidades pueden consultar estadísticas y dar seguimiento a los reportes en tiempo real.  
+En conjunto, las APIs convierten la comunicación comunitaria en un flujo ordenado, confiable y accesible.
