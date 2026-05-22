@@ -1,0 +1,16 @@
+Repositorio:  Un repositorio contiene todo el código, tus archivos y el historial de revisiones de cada uno de ellos. Puedes debatir y administrar tu trabajo dentro del repositorio.
+
+Commit: Un commit en GitHub es una acción fundamental en el control de versiones que guarda los cambios realizados en los archivos de un repositorio. Actúa como una instantánea del estado actual de tu proyecto, permitiéndote seguir modificaciones, volver a versiones anteriores y colaborar eficazmente con otros.
+
+Cuando haces un commit, Git registra lo siguiente:
+
+Los cambios realizados en los archivos.
+
+Un identificador único (hash) para el commit.
+
+Un mensaje describiendo los cambios.
+
+Metadatos como el autor y la marca de tiempo
+Push: El comando git push se utiliza para subir los cambios confirmados (commits) desde un repositorio local hacia un repositorio remoto. Esto permite que los cambios realizados en tu entorno local estén disponibles en el repositorio remoto, facilitando la colaboración con otros desarrolladores.
+
+Antes de ejecutar git push, es necesario haber realizado un commit de los cambios en el repositorio local

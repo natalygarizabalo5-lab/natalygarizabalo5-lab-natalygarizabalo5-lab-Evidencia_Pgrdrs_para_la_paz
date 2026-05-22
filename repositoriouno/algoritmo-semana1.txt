@@ -1,0 +1,58 @@
+RESPUESTAS – SEMANA 1
+Proyecto: programadores para la paz.
+5. Escribe un algoritmo de mínimo 6 pasos para explicar:
+* Cómo Compartir Información Confiable en Internet.
+
+Nombre del algoritmo: Cómo compartir información confiable en internet.
+Inicio
+1. Me llegó la información
+2. Leo la información
+3. Investigo fuentes
+4. Corroboro fuentes
+5. Confirmo información 
+6. Comparto información
+Fin. 
+
+Figura 1 diagrama de flujo
+
+
+
+
+ Seudocódigo:
+Inicio
+    // Paso 1: Recibir la información
+    Leer informacion
+ 
+    // Paso 2: Leer la información
+    Mostrar "Leyendo la información recibida..."
+ 
+    // Paso 3: Investigar fuentes
+    Buscar fuentes relacionadas con informacion
+ 
+    // Paso 4: Corroborar fuentes
+    Comparar fuentes encontradas
+    Si (fuentes son consistentes) Entonces
+        validacion ? Verdadero
+    Sino
+        validacion ? Falso
+    FinSi
+ 
+    // Paso 5: Confirmar información
+    Si (validacion = Verdadero) Entonces
+        Mostrar "La información es confiable"
+    Sino
+        Mostrar "La información no es confiable"
+    FinSi
+ 
+    // Paso 6: Compartir información
+    Si (validacion = Verdadero) Entonces
+        Compartir informacion
+    Sino
+        Mostrar "No se comparte la información"
+    FinSi
+Fin
+
+
+
+
+
