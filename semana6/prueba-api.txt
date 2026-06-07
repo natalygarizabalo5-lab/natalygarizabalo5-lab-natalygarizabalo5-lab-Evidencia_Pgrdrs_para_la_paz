@@ -1,0 +1,7 @@
+el servidor responde:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Natali",
+  "mensaje": "Hola comunidad"
+}
