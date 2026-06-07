@@ -1,0 +1,9 @@
+al consultar los reportes se obtuvo como respuesta:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
