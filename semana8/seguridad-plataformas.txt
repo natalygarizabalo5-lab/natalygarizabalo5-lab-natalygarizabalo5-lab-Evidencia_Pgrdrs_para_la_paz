@@ -1,0 +1,17 @@
+5 prácticas de seguridad que deberían aplicarse en una plataforma digital comunitaria
+
+1. politicas de seguridad de la información, son necesarias para que todos proteger y manejar
+los datos de una organización. 
+
+2. la actualización regular del software y hardware. además, 
+es importante contar con plan de contingencia en caso de que
+que se produzca una violación de seguridad. 
+
+3. uso de herramientas de seguridad como firewalls, antivirus y software de
+detención de intrusos.
+
+4. realización de pruebas de penetración. son simulaciones de ataques ciberneticos
+para detectar posibles vulnerabilidades en los sistemas y corregirlos.
+
+5. sistema de copias de seguridad o backup. con una copia de datos se recuperan en
+caso de perdidas.

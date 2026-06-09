@@ -1,0 +1,2 @@
+el comando whoami arroja una dirección 
+desktop-s01qfce\user
