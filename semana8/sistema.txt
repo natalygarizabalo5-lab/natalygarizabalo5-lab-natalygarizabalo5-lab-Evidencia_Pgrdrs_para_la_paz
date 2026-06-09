@@ -1,2 +1,34 @@
-el comando whoami arroja una dirección 
-desktop-s01qfce\user
+el comando "uname -a" es exclusivo para linux o macOS
+utilice el comando para cmd "get-computerInfo" y obtuve como resultado lo siguiente:
+
+OsServicePackMajorVersion                               : 0
+OsServicePackMinorVersion                               : 0
+OsStatus                                                : OK
+OsSuites                                                : {TerminalServices, TerminalServicesSingleSession}
+OsServerLevel                                           : 
+KeyboardLayout                                          : es-MX
+TimeZone                                                : (UTC-05:00) Bogotá, Lima, Quito, Rio Branco
+LogonServer                                             : \\DESKTOP-S01QFCE
+PowerPlatformRole                                       : Mobile
+HyperVisorPresent                                       : False
+HyperVRequirementDataExecutionPreventionAvailable       : True
+HyperVRequirementSecondLevelAddressTranslation          : True
+HyperVRequirementVirtualizationFirmwareEnabled          : True
+HyperVRequirementVMMonitorModeExtensions                : True
+DeviceGuardSmartStatus                                  : Off
+DeviceGuardRequiredSecurityProperties                   : 
+DeviceGuardAvailableSecurityProperties                  : 
+DeviceGuardSecurityServicesConfigured                   : 
+DeviceGuardSecurityServicesRunning                      : 
+DeviceGuardCodeIntegrityPolicyEnforcementStatus         : 
+DeviceGuardUserModeCodeIntegrityPolicyEnforcementStatus : 
+
+En el caso de whaomi la que se obtuvo en la Terminal fue:
+
+"desktop-s01qfce\user"
+
+
+- Por qué es útil conocer información del sistema cuando se administra un servidor.
+respuesta: revisar el sistema antes de montar un servidor es como revisar
+el terreno antes de construir una casa. Te asegura que los cimientos (el sistema operarivo) 
+van a soportar el peso de tu estructura 
