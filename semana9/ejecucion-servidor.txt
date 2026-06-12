@@ -1,0 +1,14 @@
+¿Qué ocurre cuando ejecutas node server.js?
+ respuesta: el servidor se activa y queda funcionando.
+
+¿Qué mensaje aparece en la terminal?
+
+ respuesta: aparece al respuesta "Servidor ejecutándose en puerto 3000" 
+
+¿Qué sucede cuando visitas la ruta /estado?
+
+respuesta: la ruta muestra una respuesta en formato json
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}

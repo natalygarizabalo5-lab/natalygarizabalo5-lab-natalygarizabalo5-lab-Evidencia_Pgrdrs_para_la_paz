@@ -1,0 +1,27 @@
+sistema operativo:
+
+un sistema operativo es el software fundamental que cierra la brecha
+entre el hardware de su ordenador y los programas que ejecuta cada vez. 
+actua como un traductor o intermediario esencial entre el usuario y la maquina.
+
+Node.js:
+
+node,js es una herramienta que permite usar javaScript en el backend, es decir
+en el servidor, se pueden manejar datos, crear logica y hacer que una app
+funcione de verdad.
+
+Aplicación server.js:
+
+su función es configurar,iniciar y gestionar el servidor web para javaScript del lado
+del servidor, procesando las peticiones de los usuarios y respondiendo con datos, páginas
+o servicios API.
+
+Puerto:
+
+es el canal virtual que usa el servidor para escuchar las peticiones de los usuarios.
+
+Logs:
+
+en un servidor son los mensajes de texto que indican qupe está pasando en tu Aplicación
+en tiempo real. sirve para rastrear visitas, auditar accesos y encontrar errores rápidamente
+
