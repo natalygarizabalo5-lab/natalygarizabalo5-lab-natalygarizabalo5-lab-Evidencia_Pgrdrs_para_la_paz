@@ -1,0 +1,11 @@
+Historias de usuario - Solución comunitaria o de veeduría
+
+1. Como vecino, quiero reportar incidentes de seguridad o servicio público de manera sencilla, para que la comunidad pueda responder rápidamente.
+
+2. Como miembro de la comunidad, quiero ver reportes recientes y su estado, para conocer qué problemas están siendo atendidos.
+
+3. Como voluntario de veeduría, quiero recibir notificaciones sobre nuevos reportes en mi zona, para priorizar mis acciones de seguimiento.
+
+4. Como organizador comunitario, quiero agrupar reportes por tipo de problema, para analizar patrones y coordinar mejor las intervenciones.
+
+5. Como usuario de la plataforma, quiero poder comentar y aportar evidencia en un reporte, para enriquecer la información disponible para la autoridad o la comunidad.

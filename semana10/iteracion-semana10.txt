@@ -1,0 +1,17 @@
+¿Qué 2 tareas del backlog harías primero?  
+
+Respuesta: Haría primero la recopilación y organización de la información clave que 
+se va a vigilar, porque sin datos claros no se puede avanzar, y después establecer 
+un canal de comunicación confiable con los miembros, ya que sin coordinación 
+el esfuerzo se dispersa.  
+
+¿Por qué son las más importantes?  
+
+Respuesta:Son las más importantes porque garantizan orden y colaboración desde el inicio,
+lo que evita confusiones y asegura que el trabajo tenga impacto real.
+ 
+¿Qué significa para ti que una tarea esté “terminada”?  
+
+Respuesta:Para mí, una tarea está terminada cuando funciona como se esperaba, fue probada para
+confirmar que no tiene errores y quedó registrada en Git o en el sistema de control que usemos,
+de modo que cualquier miembro pueda ver el resultado y dar seguimiento.  
