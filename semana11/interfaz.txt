@@ -1,0 +1,8 @@
+Una interfaz simple para la plataforma podría tener una pantalla principal con una sección
+para crear una causa, donde el usuario complete campos como título, descripción y categoría. 
+También incluiría una lista de causas disponibles, mostrando cada iniciativa con su nombre,
+resumen y estado. Cada causa tendría un botón para apoyar, que al presionarlo aumentaría 
+el contador de apoyos y registraría la colaboración del usuario. Además, la interfaz podría
+mostrar un contador visible junto a cada causa para indicar cuántas personas han apoyado 
+esa iniciativa. La estructura debería ser clara, fácil de usar y organizada por categorías para que 
+los usuarios naveguen rápidamente.

@@ -1,0 +1,29 @@
+Modelo básico de datos para una plataforma comunitaria
+
+Entidad 1: Causa
+- Nombre de la entidad: Causa
+- Campos principales:
+  - id_causa: identificador único de la causa
+  - titulo: nombre de la causa o iniciativa
+  - descripcion: resumen del problema o objetivo
+  - categoria: tipo de causa (social, ambiental, educativa, etc.)
+  - fecha_creacion: fecha en que se registró la causa
+  - estado: activa, en revisión o cerrada
+- Propósito de la información:
+  - Registrar las problemáticas o iniciativas que la comunidad desea impulsar y dar a conocer.
+
+Entidad 2: Apoyo
+- Nombre de la entidad: Apoyo
+- Campos principales:
+  - id_apoyo: identificador único del apoyo
+  - id_causa: referencia a la causa que recibe el apoyo
+  - id_usuario: referencia al usuario que brinda el apoyo
+  - tipo_apoyo: donación, voluntariado, comentario o firma
+  - fecha_apoyo: fecha en que se realizó el apoyo
+  - detalle: información adicional sobre la colaboración
+- Propósito de la información:
+  - Registrar las acciones que las personas realizan para respaldar una causa y medir la participación comunitaria.
+
+Relación básica:
+- Una causa puede recibir muchos apoyos.
+- Un apoyo pertenece a una sola causa.
