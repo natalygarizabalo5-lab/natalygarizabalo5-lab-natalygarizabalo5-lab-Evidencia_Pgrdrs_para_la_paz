@@ -1,0 +1,5 @@
+Automatización simple con Telegram
+
+- Evento que activa la automatización: cuando un usuario envía una nueva petición en el sistema.
+- Mensaje que se envía: un aviso automático al equipo o al usuario indicando que la petición fue recibida y está en proceso.
+- Información que no debe enviarse por seguridad: no se deben compartir contraseñas, números de documentos, datos bancarios ni información sensible del usuario.

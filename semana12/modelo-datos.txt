@@ -1,0 +1,19 @@
+Modelo básico de datos del sistema Petición en 3 Clics
+
+Entidad 1: Usuario
+- id_usuario (clave principal)
+- nombre
+- correo
+- rol
+
+Entidad 2: Petición
+- id_peticion (clave principal)
+- id_usuario (clave foránea)
+- tipo_peticion
+- descripcion
+- fecha_creacion
+- estado
+
+Relación:
+- Un Usuario puede crear muchas Peticiones.
+- Cada Petición pertenece a un único Usuario.

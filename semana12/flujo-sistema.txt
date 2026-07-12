@@ -1,0 +1,6 @@
+Flujo simple del sistema Petición en 3 Clics
+
+1. El usuario ingresa al sistema y selecciona la opción de petición.
+2. En el segundo clic, elige el tipo de solicitud y completa los datos necesarios.
+3. En el tercer clic, confirma y envía la petición.
+4. El sistema registra la solicitud, la envía al área correspondiente y notifica al usuario sobre su estado.
